@@ -19,3 +19,4 @@
 - Primary key;
 - Foreign key
 
+1- What is modeling (https://github.com/byte4u/Database-Modeling-SQL/tree/main/1-What-is-modeling)
